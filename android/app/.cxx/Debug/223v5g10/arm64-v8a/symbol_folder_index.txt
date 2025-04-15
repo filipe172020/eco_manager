@@ -1,0 +1,1 @@
+/home/filipe-marques/Downloads/eco_manager/build/app/intermediates/cxx/Debug/223v5g10/obj/arm64-v8a

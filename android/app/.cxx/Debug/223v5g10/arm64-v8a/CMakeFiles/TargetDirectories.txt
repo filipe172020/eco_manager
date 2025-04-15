@@ -1,0 +1,2 @@
+/home/filipe-marques/Downloads/eco_manager/android/app/.cxx/Debug/223v5g10/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/filipe-marques/Downloads/eco_manager/android/app/.cxx/Debug/223v5g10/arm64-v8a/CMakeFiles/rebuild_cache.dir
